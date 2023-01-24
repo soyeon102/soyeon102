@@ -38,7 +38,10 @@
 <br />
 
 
-![soyeon102's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyeon102&show_icons=true&theme=radical)
+<!-- ![soyeon102's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyeon102&show_icons=true&theme=radical) -->
+  
+[![soyeon102's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyeon102&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 </div>
